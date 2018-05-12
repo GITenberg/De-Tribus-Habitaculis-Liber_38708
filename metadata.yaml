@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '39618'
     url: http://www.gutenberg.org/2009/agents/39618
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38708#De-Tribus-Habitaculis-Liber
 gutenberg_issued: '2012-01-29'
 gutenberg_type: Text
 identifiers:
